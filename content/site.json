@@ -1,0 +1,28 @@
+{
+  "brand": "cirken",
+  "brandFull": "cirken",
+  "slogan": "사장님과 함께 성공하는 브랜드",
+  "description": "20년 노하우로 검증된 치킨 프랜차이즈. 전국 50개 매장, 평균 월 매출 8,000만원.",
+  "registrationNumber": "제2024-12345호",
+  "phone": "02-1234-5678",
+  "kakaoChannel": "@cirken",
+  "address": "서울시 강남구 테헤란로 123, 10F",
+  "email": "franchise@cirken.co.kr",
+  "disclosurePdfUrl": "/docs/disclosure-cirken.pdf",
+  "logoUrl": "/images/logo/cirken.png",
+  "founderName": "박OO 대표",
+  "founderQuote": "20년간 치킨 한 길만 걸었습니다. 사장님 한 분 한 분의 성공이 우리 브랜드의 성공입니다.",
+  "founderPhoto": "/images/founder/hf_20260429_065835_b2996bff-35d0-40f2-9f98-5a65dbeba323.png",
+  "history": [
+    { "year": "2005", "event": "cirken 창업 — 강남 1호점 오픈" },
+    { "year": "2010", "event": "10호점 돌파 — 가맹 사업 본격 시작" },
+    { "year": "2015", "event": "30호점 달성 — 브랜드 리뉴얼" },
+    { "year": "2020", "event": "전국 50호점 — 업계 Top 10 진입" },
+    { "year": "2024", "event": "점주 만족도 96% 달성 — 가맹 확대 중" }
+  ],
+  "sns": {
+    "instagram": "https://instagram.com",
+    "youtube": "https://youtube.com",
+    "naverBlog": "https://blog.naver.com"
+  }
+}

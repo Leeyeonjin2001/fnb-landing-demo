@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "id": "stores",       "value": 50,   "suffix": "개",    "label": "전국 매장" },
+    { "id": "years",        "value": 20,   "suffix": "년",    "label": "운영 경력" },
+    { "id": "revenue",      "value": 8000, "suffix": "만/월", "label": "평균 매출" },
+    { "id": "satisfaction", "value": 96,   "suffix": "%",     "label": "점주 만족도" }
+  ]
+}

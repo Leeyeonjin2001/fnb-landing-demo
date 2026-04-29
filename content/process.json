@@ -1,0 +1,33 @@
+{
+  "title": "가맹 오픈까지 약 2개월",
+  "steps": [
+    {
+      "id": "step1",
+      "number": 1,
+      "label": "문의",
+      "duration": "1~2일",
+      "description": "가맹 문의 접수 → 본사 검토 (자격 확인)"
+    },
+    {
+      "id": "step2",
+      "number": 2,
+      "label": "상담",
+      "duration": "1주",
+      "description": "1:1 상담 → 사업 계획 수립 + 예상 수익 분석"
+    },
+    {
+      "id": "step3",
+      "number": 3,
+      "label": "계약",
+      "duration": "2주",
+      "description": "가맹 계약 체결 → 본사 집중 교육 (2주 과정)"
+    },
+    {
+      "id": "step4",
+      "number": 4,
+      "label": "오픈",
+      "duration": "4~6주",
+      "description": "매장 시공 → 인테리어 완공 → 그랜드 오픈"
+    }
+  ]
+}

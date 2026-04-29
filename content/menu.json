@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "signature",
+      "label": "시그니처",
+      "items": [
+        { "name": "cirken 시크릿 양념",   "image": "/images/menu/delicious-juicy-grilled-chicken-meat-bites-with-sa-2026-03-16-03-12-19-utc.jpg",   "description": "20년 비법 양념 소스" },
+        { "name": "cirken 마리네이드 구이", "image": "/images/menu/flat-lay-composition-with-marinade-and-roasted-chi-2026-04-23-15-48-42-utc.jpg", "description": "허브 마리네이드 24시간 숙성" },
+        { "name": "바베큐 드럼스틱",       "image": "/images/menu/chicken-drumsticks-in-barbecue-sauce-2026-03-20-03-28-32-utc.jpg",               "description": "미국식 BBQ 소스" }
+      ]
+    },
+    {
+      "id": "spicy",
+      "label": "양념",
+      "items": [
+        { "name": "매콤 양념 윙",  "image": "/images/menu/chicken-wings-on-a-rustic-wooden-board-with-red-pe-2026-01-05-06-10-07-utc.jpg", "description": "청양고추 베이스 매운 양념" },
+        { "name": "허니 버터 윙", "image": "/images/menu/chicken-wings-on-a-rustic-wooden-board-with-red-pe-2026-01-05-23-00-09-utc.jpg", "description": "달콤 짭짤 허니버터 글레이즈" }
+      ]
+    },
+    {
+      "id": "fried",
+      "label": "후라이드",
+      "items": [
+        { "name": "크리스피 후라이드",   "image": "/images/menu/fried-chicken-legs-with-sauces-in-pan-2026-01-09-08-09-46-utc.jpg",      "description": "바삭한 순살 후라이드" },
+        { "name": "갈릭 그릴드치킨",     "image": "/images/menu/grilled-chicken-fillet-with-garlic-sauce-hot-pepp-2026-03-25-08-24-26-utc.JPG", "description": "구운 마늘 소스" },
+        { "name": "클래식 드럼스틱",     "image": "/images/menu/grilled-chicken-drumsticks-2026-01-08-06-27-32-utc.jpg",                 "description": "정통 레시피 드럼스틱" }
+      ]
+    },
+    {
+      "id": "skewer",
+      "label": "꼬치",
+      "items": [
+        { "name": "치킨 케밥 꼬치",  "image": "/images/menu/delicious-fresh-juicy-chicken-or-pork-kebab-on-sk-2026-03-16-06-28-27-utc.jpg", "description": "중동식 케밥 양념" },
+        { "name": "그릴 레그 꼬치",  "image": "/images/menu/grilled-chicken-leg-2026-03-17-00-08-04-utc.jpg",                              "description": "숯불 직화 그릴" }
+      ]
+    },
+    {
+      "id": "set",
+      "label": "세트",
+      "items": [
+        { "name": "시그니처 2인 세트", "image": "/images/menu/woman-hand-taking-the-fried-chicken-wings-by-hands-2026-03-16-00-46-34-utc.jpeg", "description": "시그니처 + 윙 + 음료 2잔" },
+        { "name": "파티 박스",        "image": "/images/menu/grilled-chicken-drumsticks-2026-01-08-22-48-16-utc.jpg",                          "description": "4인용 파티 세트 (3종 혼합)" }
+      ]
+    }
+  ]
+}

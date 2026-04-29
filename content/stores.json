@@ -1,0 +1,55 @@
+{
+  "totalCount": 50,
+  "byRegion": [
+    { "name": "서울", "count": 18 },
+    { "name": "경기", "count": 14 },
+    { "name": "부산", "count": 5 },
+    { "name": "대구", "count": 3 },
+    { "name": "인천", "count": 3 },
+    { "name": "광주", "count": 2 },
+    { "name": "대전", "count": 2 },
+    { "name": "기타", "count": 3 }
+  ],
+  "featured": [
+    {
+      "id": "s001",
+      "name": "강남 직영점",
+      "address": "서울시 강남구 테헤란로 123",
+      "openDate": "2020-03",
+      "image": "/images/stores/customers-enjoying-meals-in-busy-restaurant-2026-01-05-06-30-02-utc.jpg",
+      "phone": "02-1234-1001"
+    },
+    {
+      "id": "s002",
+      "name": "송파 가맹점",
+      "address": "서울시 송파구 올림픽로 45",
+      "openDate": "2021-06",
+      "image": "/images/stores/group-of-business-people-in-restaurant-at-lunch-2026-03-18-05-28-33-utc.jpg",
+      "phone": "02-1234-1002"
+    },
+    {
+      "id": "s003",
+      "name": "홍대 가맹점",
+      "address": "서울시 마포구 홍익로 67",
+      "openDate": "2022-01",
+      "image": "/images/stores/chef-delivers-food-group-of-young-friends-that-si-2026-01-09-00-06-47-utc.jpg",
+      "phone": "02-1234-1003"
+    },
+    {
+      "id": "s004",
+      "name": "판교 가맹점",
+      "address": "경기도 성남시 분당구 판교로 89",
+      "openDate": "2021-09",
+      "image": "/images/stores/family-sitting-at-dining-table-2026-03-18-15-50-56-utc.jpg",
+      "phone": "031-1234-1004"
+    },
+    {
+      "id": "s005",
+      "name": "부산 서면점",
+      "address": "부산시 부산진구 서면로 234",
+      "openDate": "2022-04",
+      "image": "/images/stores/rows-of-restaurant-tables-and-chairs-in-gray-room-2026-01-08-06-42-34-utc.jpg",
+      "phone": "051-1234-1005"
+    }
+  ]
+}

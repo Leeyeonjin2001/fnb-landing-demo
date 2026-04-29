@@ -1,0 +1,13 @@
+{
+  "title": "사장님 혼자 두지 않습니다",
+  "subtitle": "창업부터 운영까지, cirken이 함께합니다",
+  "items": [
+    { "id": "supply",     "icon": "Truck",       "label": "식자재 일일 공급",    "description": "전국 물류망으로 매일 신선한 재료 배송" },
+    { "id": "marketing",  "icon": "Megaphone",   "label": "마케팅 지원",          "description": "본사 SNS 광고 + 지역 타겟 마케팅" },
+    { "id": "education",  "icon": "MortarboardFill", "label": "본사 교육",         "description": "2주 집중 교육 + 정기 업데이트 교육" },
+    { "id": "pos",        "icon": "Display",     "label": "POS 시스템",           "description": "실시간 매출·재고 분석 솔루션 제공" },
+    { "id": "supervisor", "icon": "PersonBadge", "label": "슈퍼바이저 방문",      "description": "월 2회 정기 방문 + 현장 피드백" },
+    { "id": "interior",   "icon": "Tools",       "label": "인테리어 지원",        "description": "협력 시공사 연결 + 표준 설계 제공" },
+    { "id": "support",    "icon": "HeadsetFill", "label": "24시간 본사 콜센터",   "description": "긴급 상황 즉시 대응 전담팀 운영" }
+  ]
+}
